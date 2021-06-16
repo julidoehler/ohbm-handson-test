@@ -3,6 +3,8 @@
 ## Context:
 What it is about
 
+## How to get this content
+
 ## Requirements
 
 ## How to install
