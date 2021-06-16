@@ -1,13 +1,13 @@
-### OHBM Hackathon 2021 TrainTrack Session - Reproducible Workflows
+## OHBM Hackathon 2021 TrainTrack Session - Reproducible Workflows
 
-## Context:
+### Context:
 What it is about
 
-## How to get this content
+### How to get this content
 
-## Data description
+### Data description
 
-## How to install the required packages:
+### How to install the required packages:
 
 It can be useful to install the required packages in a virtual environment (virtualenv, miniconda).
 
@@ -26,10 +26,10 @@ pip install -r requierements.txt
 Then install the BrainStat package:
 
 ...
-git clone https://
+git clone https://github.com
 ...
 
-## How to run the analysis
+### How to run the analysis
 
 From root folder run:
 
