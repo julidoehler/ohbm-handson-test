@@ -27,12 +27,16 @@ Then install the BrainStat package:
 
 ```
 git clone https://github.com/MICA-MNI/BrainStat.git
+cd BrainStat
+python3 setup.py build
+python3 setup.py install
 ```
 
 ### How to run the analysis
 
-From root folder run:
+Navigate to the code folder then run:
 
 ```
-python3 code/analysis_01.py
+cd code
+python3 analysis_01.py
 ```
