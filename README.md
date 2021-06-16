@@ -26,7 +26,7 @@ pip install -r requierements.txt
 Then install the BrainStat package:
 
 ```
-git clone https://github.com
+git clone https://github.com/MICA-MNI/BrainStat.git
 ```
 
 ### How to run the analysis
