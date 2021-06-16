@@ -8,7 +8,7 @@ What it is about
 ### Data description
 
 ### Run in the cloud
-Please follow this link: [https://mybinder.org/v2/gh/JuliAne/ohbm-handson-test/8a471d1a10fa916b74a7d704a9531df9c28ec806](https://mybinder.org/v2/gh/JuliAne/ohbm-handson-test/8a471d1a10fa916b74a7d704a9531df9c28ec806)
+Please follow this link: [https://mybinder.org/v2/gh/JuliAne/ohbm-handson-test/8a471d1a10fa916b74a7d704a9531df9c28ec806]
 
 ### How to install the required packages:
 
