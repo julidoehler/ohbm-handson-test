@@ -8,7 +8,9 @@ What it is about
 ### Data description
 
 ### Run in the cloud
-Please follow this link: [https://mybinder.org/v2/gh/JuliAne/ohbm-handson-test/8a471d1a10fa916b74a7d704a9531df9c28ec806]
+Please follow this link: [Binder Repo](https://mybinder.org/v2/gh/JuliAne/ohbm-handson-test/8a471d1a10fa916b74a7d704a9531df9c28ec806)
+
+Or navigate to notebook directly: [Notebook](https://hub.mybinder.turing.ac.uk/user/juliane-ohbm-handson-test-icpsyfnt/notebooks/code/analysis_notebook.ipynb)
 
 ### How to install the required packages:
 
