@@ -11,11 +11,11 @@ What it is about
 
 It can be useful to install the required packages in a virtual environment (virtualenv, miniconda).
 
-...
+'''
 conda create -n user-test python=3.6
 # some stuff will happen
 conda activate user-test
-...
+'''
 
 First install the packages with 'pip' after navigating to the repo root folder
 
