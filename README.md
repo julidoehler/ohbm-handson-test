@@ -1,24 +1,22 @@
-OHBM Hackathon 2021 TrainTrack Session - Reproducible Workflows
+### OHBM Hackathon 2021 TrainTrack Session - Reproducible Workflows
 Welcome to the code and content repository of the hands-on session "I’d like to reproduce your results…" and other tales in Reproducible Workflows, part of the TrainTrack of the OHBM BrainHack 2021
 
-Presenters:
+## Presenters:
 Stephan Heunis and Şeyma Bayrak
 
-Abstract
+## Abstract
 Almost all researchers have data and analysis scripts that generate results in the form of figures. Yet, few other researchers can use these exact data and scripts to generate the same figures, or to reproduce all results of the study. In this session, we’ll take you on a journey of building reproducible workflows that help alleviate the anxiety associated with receiving that dreaded email 'I’d like to reproduce your results...'
 
 We’ll start with helping others run your code on their machines, and end up with a fully reproducible workflow running in the cloud, with several pit stops in between.
 
-Scenario
+## Scenario
 As a researcher working in neuroimage analysis, you (the person following this hands-on session) have recently published a paper using cortical thickness data from MICA-MNI.
 
 Your paper described an analysis pipeline to compare the thickness in various brain regions for a group of 259 participants, and your results section contains several figures including a visualization of statistical test values.
 
-alt text
-
 You receive an email from a colleague asking if you can send them the necessary code, data and instructions to reproduce these results.
 
-Goals
+## Goals
 By the end of this session, you should be able to do the following STEPS:
 
 Set up a requirements.txt file that specifies package requirements
@@ -31,7 +29,7 @@ Understand the benefits of data management with DataLad
 Slides
 The sessions follows these slides step by step.
 
-Computational environment
+## Computational environment
 Some parts of the session will be run in a Binder-based computational environment in the cloud.
 
 One environment demonstrates the use of requirements.txt as the configuration file for Binder. Access it here:
